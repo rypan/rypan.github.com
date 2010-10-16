@@ -56,6 +56,5 @@ a{
 }
 
 .post p{
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin: 20px 0px 20px 0px;
 }
