@@ -18,7 +18,8 @@ body{
 
 #bio{
 	font-size: 13px;
-	color: #666666;
+	color: #666666;	
+	margin-bottom: 50px;
 }
 
 #bio a{
@@ -27,7 +28,6 @@ body{
 
 #bio h1 a{
 	font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-weight: light;
 	font-style: none;
 	color: #0072bc;
 	font-size: 18px;
