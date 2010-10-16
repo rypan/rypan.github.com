@@ -1,5 +1,5 @@
 body{
-	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	background-color: #f3f3f3;
 }
 
@@ -11,11 +11,14 @@ body{
 	border-right-color: #dbdbdb;
 	border-right-width: 1px;
 	border-right-style: solid;
+	margin-left: 190px;
 	padding: 50px 15px 50px 15px;
 }
 
 #bio h1 a{
+	font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: light;
+	font-style: none;
 	color: #0072bc;
 	font-size: 18px;
 }
