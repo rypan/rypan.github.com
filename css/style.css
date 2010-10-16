@@ -1,0 +1,15 @@
+body{
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	background-color: #f3f3f3;
+}
+
+main{
+	background-color: white;
+	border-left-color: #dbdbdb;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-right-color: #dbdbdb;
+	border-right-width: 1px;
+	border-right-style: solid;
+	padding: 50px 15px 50px 15px;
+}
