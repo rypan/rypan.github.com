@@ -11,8 +11,18 @@ body{
 	border-right-color: #dbdbdb;
 	border-right-width: 1px;
 	border-right-style: solid;
-	margin-left: 190px;
+	margin-left: 192px;
+	width: 576px;
 	padding: 50px 15px 50px 15px;
+}
+
+#bio{
+	font-size: 13px;
+	color: #666666;
+}
+
+#bio a{
+	color: #0072bc;
 }
 
 #bio h1 a{
