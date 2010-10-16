@@ -3,7 +3,7 @@ body{
 	background-color: #f3f3f3;
 }
 
-main{
+#main{
 	background-color: white;
 	border-left-color: #dbdbdb;
 	border-left-width: 1px;
@@ -12,4 +12,9 @@ main{
 	border-right-width: 1px;
 	border-right-style: solid;
 	padding: 50px 15px 50px 15px;
+}
+
+#bio h1{
+	font-weight: light;
+	font: #0072bc;
 }
