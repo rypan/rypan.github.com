@@ -51,3 +51,11 @@ a{
 	font-weight: bold;
 }
 
+.body{
+	font-size: 13px;
+}
+
+.post .p{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
