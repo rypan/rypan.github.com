@@ -1,6 +1,7 @@
 body{
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	background-color: #f3f3f3;
+	color: #333333;
 }
 
 #main{
@@ -16,19 +17,33 @@ body{
 	padding: 50px 15px 50px 15px;
 }
 
+a{
+	color: #0072bc;
+}
+
 #bio{
 	font-size: 13px;
 	color: #666666;	
 	margin-bottom: 50px;
 }
 
-#bio a{
-	color: #0072bc;
-}
-
 #name a{
 	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
 	text-decoration: none;
-	color: #0072bc;
 	font-size: 18px;
 }
+
+.post h1{
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
+	font-size: 20px;
+}
+
+.category{
+	text-transform: uppercase;
+}
+
+.category{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
