@@ -28,7 +28,13 @@
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_layouts/default%202.html</string>
+				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_layouts/post.html</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts/2010-10-16-first-post.markdown</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>

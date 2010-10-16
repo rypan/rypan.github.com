@@ -38,11 +38,15 @@ a{
 	font-size: 20px;
 }
 
+.tidbits{
+	font-size: 11px;
+}
+
 .category{
 	text-transform: uppercase;
 }
 
-.category{
+.date{
 	text-transform: uppercase;
 	font-weight: bold;
 }
