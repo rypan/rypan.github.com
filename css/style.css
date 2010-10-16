@@ -14,7 +14,8 @@ body{
 	padding: 50px 15px 50px 15px;
 }
 
-#bio h1{
+#bio h1 a{
 	font-weight: light;
-	font: #0072bc;
+	color: #0072bc;
+	font-size: 18px;
 }
