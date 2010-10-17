@@ -50,6 +50,12 @@
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts/2009-12-10-why-vevo-will-be-a-hit.markdown</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
 		</array>
 	</dict>
 </dict>
