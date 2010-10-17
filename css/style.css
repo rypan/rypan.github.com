@@ -14,6 +14,7 @@ body{
 	border-right-style: solid;
 	margin-left: 192px;
 	width: 576px;
+	height: 100%;
 	padding: 50px 15px 50px 15px;
 }
 
@@ -57,4 +58,9 @@ a{
 
 .post p{
 	margin: 20px 0px 20px 0px;
+}
+
+#writing-list h1{
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
+	font-size: 20px;
 }
