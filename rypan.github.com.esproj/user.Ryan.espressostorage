@@ -109,6 +109,24 @@
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts/2009-01-22-take-advantage-of-the-downturn.markdown</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts/2008-12-09-creation-to-consumption-ratio.markdown</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts/2008-10-30-scrolling-is-good.markdown</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
 		</array>
 	</dict>
 	<key>com.macrabbit.Espresso.WorkspaceTabs.DisclosureCollapsed</key>

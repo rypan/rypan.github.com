@@ -15,13 +15,13 @@ Why is it so difficult for companies to do the right thing?  Think about your im
 **Bad: Big Three Auto.**
 I understand executives have busy schedules and need to fly on private jets to maintain all appointments and maximize your time. But, what were you thinking? When going to Washington to ask for bailout money because your companies were failing, [why did you fly private](http://www.cnn.com/2008/US/11/19/autos.ceo.jets/)? Do you realize, if one of your companies showed restraint and flew commercial or even drove to Washington D.C., you would be in the spotlight.
 
-**Bad: Citigroup**
+**Bad: Citigroup.**
 What kind of impression does buying a $50,000,000 private plane set?  One slip can tarnish your [image in the media](http://www.nypost.com/seven/01262009/news/nationalnews/just_plane_despicable_152033.htm), and when you are looking for support from tax payers, that is something you cannot afford.
 
-**Good: New York Times**
+**Good: New York Times.**
 Executive Editor Bill Keller serves as a [good example](http://www.reuters.com/article/marketsNews/idUSN2838036020081028) where his entire team, if they have to fly, fly coach.
 
-**Good: Hyundai**
+**Good: Hyundai.**
 The Korean Car company has been [running ads](http://www.youtube.com/watch?v=4c_nAmJbjvw) all month encouraging Americans to buy its cars.  They concede that times are tough, so they are allowing people who lose their jobs to return their cars. What does that say about their company?
 
 It is not difficult to do the right thing.  All you have to do is **evaluate** every action you take, show **restraint** and **discipline** when spending, **compassion** for your employees, and **be aware** of the message you are sending.
