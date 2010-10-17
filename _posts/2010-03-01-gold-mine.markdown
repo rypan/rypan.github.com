@@ -1,7 +1,7 @@
 ---
 layout: post
 category: technology
-title: Gold Mine - Corporate Social Networks
+title: Corporate Social Networks
 ---
 
 I am more connected to my friends and family today than ever before.  There’s Facebook for photos and life events.  There’s Twitter for the random musing.  There’s people’s blogs for the deeper thoughts.  There’s Foursquare for location awareness.  But when it comes to my coworkers and company, there is a void.
@@ -9,15 +9,15 @@ I am more connected to my friends and family today than ever before.  There’s 
 ## What’s Missing
 Many medium and large businesses today have solutions for file storage, internal blogging, address books, and instant messaging.  The problem is that they exist in silos.  The components aren’t connected and can’t talk to each other.  That’s the web circa 2003.
 
-The company intranet today should be so much more powerful.  It needs to have the best parts of LinkedIn and Facebook: *the profile*.  A simple address book listing doesn’t do justice anymore.  People expect rich details like interests, expertise, and past projects.  Finding people within my company that have knowledge in SOX or speak Japanese should be as easy as looking up someone’s office number.
+The company intranet today should be so much more powerful.  It needs to have the best parts of LinkedIn and Facebook: **the profile**.  A simple address book listing doesn’t do justice anymore.  People expect rich details like interests, expertise, and past projects.  Finding people within my company that have knowledge in SOX or speak Japanese should be as easy as looking up someone’s office number.
 
-*Sharing and collaborating* on files has become a daily necessity.  Documents have multiple owners and change hands frequently.  File storage and collaboration tools are essential.  Sharepoint and Google Docs have streamlined the task.
+**Sharing and collaborating** on files has become a daily necessity.  Documents have multiple owners and change hands frequently.  File storage and collaboration tools are essential.  Sharepoint and Google Docs have streamlined the task.
 
-Finding resources and answering questions need to be easy.  *Searching* through documents and people needs to be fast and accurate like Google and Bing.  If answers can’t be found, there needs to be spaces for people to *ask questions and receive answers*.  Those answers need to be saved, so a question only has to be asked once.
+Finding resources and answering questions need to be easy.  **Searching** through documents and people needs to be fast and accurate like Google and Bing.  If answers can’t be found, there needs to be spaces for people to **ask questions and receive answers**.  Those answers need to be saved, so a question only has to be asked once.
 
-Companies have a hierarchy and a reporting structure.  That’s not how people work.  They work in teams that are structured and unstructured.  They have interests that reach outside of where they sit in the corporate structure.  Facilitating *groups and networks* is key.
+Companies have a hierarchy and a reporting structure.  That’s not how people work.  They work in teams that are structured and unstructured.  They have interests that reach outside of where they sit in the corporate structure.  Facilitating **groups and networks** is key.
 
-All these pieces above may exist in some shape or form.  The secret is how you connect them.  Actions and activities across networks and groups that are relevant to you, should be aggregated like a Facebook *Newsfeed*.  If a file has been updated or someone in your network has asked question, you should be notified.  An internal social network has to be *integrated with your business*.  If your company is driven by sales, deals should be broadcasted to the Newsfeed.  If a company does business in consulting, new projects should be automatically broadcasted out to people who’s interest it aligns.
+All these pieces above may exist in some shape or form.  The secret is how you connect them.  Actions and activities across networks and groups that are relevant to you, should be aggregated like a Facebook **Newsfeed**.  If a file has been updated or someone in your network has asked question, you should be notified.  An internal social network has to be **integrated with your business**.  If your company is driven by sales, deals should be broadcasted to the Newsfeed.  If a company does business in consulting, new projects should be automatically broadcasted out to people who’s interest it aligns.
 
 ## Opportunity
 The demand for a corporate social network is natural.  Historically the workplace has had more technology than homes, but times have changed.  With devices like the iPhone, consumers are getting advanced technologies faster.  The ability to share document or look up a profile for someone has existed in the consumer space for 7 years.  Once people get a taste of a good technology in their day-to-day life, they expect it in their work life.
