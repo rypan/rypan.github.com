@@ -1,7 +1,7 @@
 ---
 layout: post
 category: technology
-title: Gold Mine: Corporate Social Networks
+title: Gold Mine - Corporate Social Networks
 ---
 
 I am more connected to my friends and family today than ever before.  There’s Facebook for photos and life events.  There’s Twitter for the random musing.  There’s people’s blogs for the deeper thoughts.  There’s Foursquare for location awareness.  But when it comes to my coworkers and company, there is a void.
