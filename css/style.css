@@ -34,6 +34,10 @@ em{
 	font-style: italic;
 }
 
+img{
+	max-width: 574px;
+}
+
 #bio{
 	font-size: 13px;
 	color: #666666;	
