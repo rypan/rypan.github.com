@@ -20,6 +20,12 @@ body{
 
 a{
 	color: #0072bc;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #0072bc;
+	text-decoration: underline;
 }
 
 #bio{
