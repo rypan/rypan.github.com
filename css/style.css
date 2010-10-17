@@ -12,9 +12,11 @@ body{
 	border-right-color: #dbdbdb;
 	border-right-width: 1px;
 	border-right-style: solid;
+	border-bottom-color: #dbdbdb;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
 	margin-left: 192px;
 	width: 576px;
-	height: auto;
 	padding: 50px 15px 50px 15px;
 }
 
@@ -69,4 +71,17 @@ a:hover{
 #writing-list h1{
 	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
 	font-size: 20px;
+}
+
+#listofposts{
+	width: 192px;
+	position: absolute;
+	left: 768px;
+	top: 45px;
+}
+
+#listofposts a{
+	font-size: 11px;
+	font-weight: bold;
+	color: #767676;
 }
