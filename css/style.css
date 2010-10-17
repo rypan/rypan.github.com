@@ -38,6 +38,24 @@ img{
 	max-width: 574px;
 }
 
+blockquote
+{
+    background: #90d3ff;
+    padding: 0px 0px 0px 10px;
+    margin-bottom: 12px;
+}
+
+blockquote p
+{
+    background: #f9f9f9;
+    padding: 15px 15px 15px 10px;
+    font-weight: normal;
+    text-transform: normal;
+    letter-spacing: normal;
+    line-height: 1.45em;
+}
+
+
 #bio{
 	font-size: 13px;
 	color: #666666;	
