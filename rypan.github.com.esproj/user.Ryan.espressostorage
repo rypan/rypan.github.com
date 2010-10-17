@@ -81,7 +81,13 @@
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts/2010-08-17-compensation-models.markdown</string>
+				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts/2009-08-17-compensation-models.markdown</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts/2009-08-13-51-percent.markdown</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
