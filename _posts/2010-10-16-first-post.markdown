@@ -1,13 +1,31 @@
 ---
 layout: post
 category: technology
-title: First Post
+title: Gold Mine: Corporate Social Networks
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in libero at lorem laoreet congue. Ut at urna arcu. Phasellus erat nisi, pellentesque ac feugiat nec, dictum vitae velit. Curabitur dignissim, erat vel mollis auctor, massa ante cursus neque, ac placerat purus est vel turpis. Fusce quis interdum sapien. Proin id orci quam. Sed eleifend dignissim ligula, vitae ultrices urna vehicula sit amet. Donec aliquet egestas diam, eu volutpat erat elementum ac. Donec ipsum urna, cursus non vulputate et, ullamcorper sit amet neque. Vivamus non nisi et nibh mattis semper.
+I am more connected to my friends and family today than ever before.  There’s Facebook for photos and life events.  There’s Twitter for the random musing.  There’s people’s blogs for the deeper thoughts.  There’s Foursquare for location awareness.  But when it comes to my coworkers and company, there is a void.
 
-Quisque ac sem id felis feugiat tempus ac ut orci. Aenean tempus tellus eget dui vestibulum gravida suscipit tellus porta. Curabitur tincidunt laoreet sollicitudin. Fusce sit amet odio sem. Sed vel ante leo. Suspendisse non ipsum quis erat tincidunt tempor. Phasellus molestie lacus vel nunc elementum scelerisque. Curabitur ac enim id turpis varius ornare. Maecenas nec dolor vel turpis auctor tincidunt. Vestibulum pellentesque laoreet neque, a bibendum metus tempor sit amet. Aenean nec elementum ipsum.
+*What’s Missing*
+Many medium and large businesses today have solutions for file storage, internal blogging, address books, and instant messaging.  The problem is that they exist in silos.  The components aren’t connected and can’t talk to each other.  That’s the web circa 2003.
 
-In euismod vestibulum egestas. Donec euismod vehicula enim, quis auctor nibh sagittis ut. Nam tristique ligula eget risus auctor tempus. Quisque venenatis dui eget nunc luctus eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in ante vel massa iaculis fringilla. Nulla non neque felis. Ut rhoncus tincidunt massa vitae dignissim. Integer vitae euismod lectus. Etiam eu ullamcorper nisl. Phasellus id ante id dolor fermentum commodo et vel ante.
+The company intranet today should be so much more powerful.  It needs to have the best parts of LinkedIn and Facebook: the profile.  A simple address book listing doesn’t do justice anymore.  People expect rich details like interests, expertise, and past projects.  Finding people within my company that have knowledge in SOX or speak Japanese should be as easy as looking up someone’s office number.
 
-Aliquam erat volutpat. Aenean sodales, tellus sed vestibulum interdum, nulla nibh gravida sem, sit amet eleifend nulla justo a nisl. Phasellus fermentum sollicitudin dui, id ornare ante placerat eget. Nunc eu mattis sapien. Suspendisse rutrum felis a est blandit accumsan sagittis purus hendrerit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse consectetur scelerisque lectus, eu adipiscing ipsum lacinia tincidunt. Maecenas nunc nulla, aliquam sit amet aliquet et, imperdiet ut felis. Integer accumsan leo vel nisi elementum suscipit. Sed in risus mauris. Nullam faucibus aliquam justo eu eleifend.
+Sharing and collaborating on files has become a daily necessity.  Documents have multiple owners and change hands frequently.  File storage and collaboration tools are essential.  Sharepoint and Google Docs have streamlined the task.
+
+Finding resources and answering questions need to be easy.  Searching through documents and people needs to be fast and accurate like Google and Bing.  If answers can’t be found, there needs to be spaces for people to ask questions and receive answers.  Those answers need to be saved, so a question only has to be asked once.
+
+Companies have a hierarchy and a reporting structure.  That’s not how people work.  They work in teams that are structured and unstructured.  They have interests that reach outside of where they sit in the corporate structure.  Facilitating groups and networks is key.
+
+All these pieces above may exist in some shape or form.  The secret is how you connect them.  Actions and activities across networks and groups that are relevant to you, should be aggregated like a Facebook Newsfeed.  If a file has been updated or someone in your network has asked question, you should be notified.  An internal social network has to be integrated with your business.  If your company is driven by sales, deals should be broadcasted to the Newsfeed.  If a company does business in consulting, new projects should be automatically broadcasted out to people who’s interest it aligns.
+
+*Opportunity*
+The demand for a corporate social network is natural.  Historically the workplace has had more technology than homes, but times have changed.  With devices like the iPhone, consumers are getting advanced technologies faster.  The ability to share document or look up a profile for someone has existed in the consumer space for 7 years.  Once people get a taste of a good technology in their day-to-day life, they expect it in their work life.
+
+Startups and established companies are trying to create the perfect solution.  Companies like Salesforce.com, 37signals, Yammer, and even Microsoft are going after the challenge.  Adoption will be tough, but if any of the players create the perfect solution, they have struck gold.  The value of  a network that makes company employees more connected and more productive is priceless.  Also, once a company selects a technology and adopts it, the switch cost will be very high.
+
+Adoption is going to be difficult.  For cloud-based solutions, the biggest roadblock is data privacy.  For a large company with a lot of sensitive data, trusting a 3rd party to store and manage your data is a shift in traditional practices.  For internally deployed solutions, the biggest roadblock will be cost.  Small businesses do not have infrastructure or budget to buy a set of servers and manage it themselves.
+
+In my opinion, many businesses today will see value in cloud-based solutions.  Research on the topic can be done forever, but the best way to realize the benefit is to try it internally.  A small business that signs up for Basecamp or Salesforce Chatter is farther along the technology curve than most large corporations.  Have a small portion of your company try a particular technology out.  Make sure the group that is testing it works together closely.  If things work, expand the technology to more employees.  If things don’t work, try a new technology.
+
+It’s time for the void to be filled and the silos to be connected.  The corporate social network is coming and I have a feeling this year will be when it all happens.
