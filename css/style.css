@@ -30,6 +30,10 @@ a:hover{
 	text-decoration: underline;
 }
 
+em{
+	font-style: italic;
+}
+
 #bio{
 	font-size: 13px;
 	color: #666666;	
@@ -66,6 +70,12 @@ a:hover{
 
 .post p{
 	margin: 20px 0px 20px 0px;
+}
+
+.post h2{
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	margin: 0px;
 }
 
 #writing-list h1{
