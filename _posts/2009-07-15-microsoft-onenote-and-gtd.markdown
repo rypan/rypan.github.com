@@ -24,15 +24,15 @@ To give this kind of task management a shot, all you need is **Microsoft OneNote
 
 I assign tags to lines in OneNote that are action items.  OneNote even allows you to assign multiple tags.  Here are the list of tags that I use:
 
->@processing – For items that I have not categorized yet
->@email – Emails I either need to write or reply to
->@discuss – Items that come up that need to be discussed
->@desk – Things I need to do at my desk like create a presentation or spreadsheet
->@review – For emails, documents, or links that I need to read and review
->@tracking-issue – Issues that need to be kept on my radar
->@later – Action items that can be postponed
->@idea – Ideas and features that need to be tracked
->*today – Items that need to be finished by the end of the day
+> @processing – For items that I have not categorized yet
+> @email – Emails I either need to write or reply to
+> @discuss – Items that come up that need to be discussed
+> @desk – Things I need to do at my desk like create a presentation or spreadsheet
+> @review – For emails, documents, or links that I need to read and review
+> @tracking-issue – Issues that need to be kept on my radar
+> @later – Action items that can be postponed
+> @idea – Ideas and features that need to be tracked
+> \*today – Items that need to be finished by the end of the day
 
 Your tags may be different depending on the type of work and person you are.  A Designer might create a tag called @photoshop or a Financial Analyst might create @sap or @excel.
 
@@ -48,7 +48,7 @@ As you modify each of the tags make sure you select a **Symbol** that can be “
 
 ![Modify Today Tag](http://panchadsaram.com/wp-content/uploads/2009/07/today.gif)
 
-For the ***today** tag, make sure you select a **Highlight Color**.
+For the **\*today** tag, make sure you select a **Highlight Color**.
 
 
 ## Start Tagging
@@ -67,6 +67,6 @@ You can also update the list by clicking **Refresh**.
 
 ## Summary
 
-Setting things up is easy.  Just remember, if it feels like an action item tag it as **@processing** and come back to it later to assign the correct tag.  Once you get the hang of it you will start to notice that you can track all the small details.  One thing I try to do is attack a section at a time.  I first start with all the ***today** tags.  Then I move on to **@email**, then **@desk**, and so on.  It keeps you focused and you start getting things done.
+Setting things up is easy.  Just remember, if it feels like an action item tag it as **@processing** and come back to it later to assign the correct tag.  Once you get the hang of it you will start to notice that you can track all the small details.  One thing I try to do is attack a section at a time.  I first start with all the **\*today** tags.  Then I move on to **@email**, then **@desk**, and so on.  It keeps you focused and you start getting things done.
 
 There are a few other features worth their own posts, so look out for them soon.
