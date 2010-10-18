@@ -24,15 +24,15 @@ To give this kind of task management a shot, all you need is **Microsoft OneNote
 
 I assign tags to lines in OneNote that are action items.  OneNote even allows you to assign multiple tags.  Here are the list of tags that I use:
 
-> processing - For items that I have not categorized yet
-> email - Emails I either need to write or reply to
-> discuss - Items that come up that need to be discussed
-> desk - Things I need to do at my desk like create a presentation or spreadsheet
-> review - For emails, documents, or links that I need to read and review
-> tracking-issue - Issues that need to be kept on my radar
-> later - Action items that can be postponed
-> idea - Ideas and features that need to be tracked
-> today - Items that need to be finished by the end of the day
+> processing - For items that I have not categorized yet  
+> email - Emails I either need to write or reply to  
+> discuss - Items that come up that need to be discussed  
+> desk - Things I need to do at my desk like create a presentation or spreadsheet  
+> review - For emails, documents, or links that I need to read and review  
+> tracking-issue - Issues that need to be kept on my radar  
+> later - Action items that can be postponed  
+> idea - Ideas and features that need to be tracked  
+> today - Items that need to be finished by the end of the day  
 
 Your tags may be different depending on the type of work and person you are.  A Designer might create a tag called @photoshop or a Financial Analyst might create @sap or @excel.
 

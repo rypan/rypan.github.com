@@ -39,6 +39,10 @@ img{
 	text-align: center;
 }
 
+p img{
+	text-align: center;
+}
+
 blockquote
 {
     background: #90d3ff;
