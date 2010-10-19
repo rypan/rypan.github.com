@@ -12,11 +12,11 @@ I now use [Microsoft OneNote](http://office.microsoft.com/en-us/onenote/default.
 
 I needed a way to create a to-do list on the fly, and OneNote did the trick.  By using its [tagging feature](http://office.microsoft.com/en-us/onenote/HA102209411033.aspx?pid=CH102381781033), you can tag work items right in your notes and have them aggregated automatically:
 
-![Automatically](http://panchadsaram.com/wp-content/uploads/2009/07/notetotag.gif)
+![Automatically](http://vintage.panchadsaram.com/wp-content/uploads/2009/07/notetotag.gif)
 
 This system allows me to be efficient by categorizing the kinds of work that I need to do.  Here is what a larger list looks like:
 
-![Task List](http://panchadsaram.com/wp-content/uploads/2009/07/listoftasks1.gif)
+![Task List](http://vintage.panchadsaram.com/wp-content/uploads/2009/07/listoftasks1.gif)
 
 To give this kind of task management a shot, all you need is **Microsoft OneNote 2007** and **15 minutes of free time**.  I will walk you through setting up tagging.
 
@@ -38,15 +38,15 @@ Your tags may be different depending on the type of work and person you are.  A 
 
 Here is the set of tags that come with OneNote and what you need to modify them to:
 
-![Modify](http://panchadsaram.com/wp-content/uploads/2009/07/beforeafter.gif)
+![Modify](http://vintage.panchadsaram.com/wp-content/uploads/2009/07/beforeafter.gif)
 
 To modify a tag, click on the **Tag** drop down, then click **Customize My Tags**.  You then click on the tag and click **Modify**.
 
-![Modify Tag](http://panchadsaram.com/wp-content/uploads/2009/07/processing.gif)
+![Modify Tag](http://vintage.panchadsaram.com/wp-content/uploads/2009/07/processing.gif)
 
 As you modify each of the tags make sure you select a **Symbol** that can be “checked”.
 
-![Modify Today Tag](http://panchadsaram.com/wp-content/uploads/2009/07/today.gif)
+![Modify Today Tag](http://vintage.panchadsaram.com/wp-content/uploads/2009/07/today.gif)
 
 For the **\*today** tag, make sure you select a **Highlight Color**.
 
@@ -55,15 +55,15 @@ For the **\*today** tag, make sure you select a **Highlight Color**.
 
 You can tag selections by using the drop-down menu under **Tags** or by using the short cut keys.  When you are ready to see your summarized/aggregated view of tags, click on the **Tag** drop-down and select **Show All Tagged Notes**
 
-![Show All Tags](http://panchadsaram.com/wp-content/uploads/2009/07/showtagged.gif)
+![Show All Tags](http://vintage.panchadsaram.com/wp-content/uploads/2009/07/showtagged.gif)
 
 You can now use this view to check off items that you have completed.  You can hide/unhide checked items by clicking on the **Show only unchecked items** box.
 
-![Show Unchecked](http://panchadsaram.com/wp-content/uploads/2009/07/unchecked.gif)
+![Show Unchecked](http://vintage.panchadsaram.com/wp-content/uploads/2009/07/unchecked.gif)
 
 You can also update the list by clicking **Refresh**.
 
-![Refresh](http://panchadsaram.com/wp-content/uploads/2009/07/refresh.gif)
+![Refresh](http://vintage.panchadsaram.com/wp-content/uploads/2009/07/refresh.gif)
 
 ## Summary
 

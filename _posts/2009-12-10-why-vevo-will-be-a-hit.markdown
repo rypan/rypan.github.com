@@ -4,7 +4,7 @@ category: technology
 title: Why Vevo Will be a Hit
 ---
 
-![Vevo](http://panchadsaram.com/wp-content/uploads/2009/12/vevo1u.png)
+![Vevo](http://vintage.panchadsaram.com/wp-content/uploads/2009/12/vevo1u.png)
 
 Right off the bat, I’ll say what everyone is thinking, it looks like Hulu. I agree. But that’s not a bad thing. By imitating the newest and hottest video property, [Vevo](http://www.vevo.com) has set themselves up for success.
 
@@ -12,7 +12,7 @@ Vevo has the support of the big record labels, so content will be there. It will
 
 The site iseasy to use and has a lot of room for new features and improvements. From day 1 they are showcasing full page ads, 15-second pre-rolling ads, and sponsorship links.  My hunch is Vevo will be able to monetize music videos far better than YouTube or MySpace through compelling ad opportunities.
 
-![MusicVideo](http://panchadsaram.com/wp-content/uploads/2009/12/vevo2u.png)
+![MusicVideo](http://vintage.panchadsaram.com/wp-content/uploads/2009/12/vevo2u.png)
 
 Vevo has been given [liberal branding](http://www.youtube.com/vevo) on YouTube channel and video pages. That’s free attention. For example, the [Single Ladies](http://www.youtube.com/watch?v=4m1EFMoRFvY) video by Beyonce has generated 72M views in the past 2 months. The engineering support from Google is priceless too. The partnership may look more valuable for Vevo, but Google has to be thrilled to be a big player in the room. Vevo could have easily gone the route of Hulu and created everything from scratch, on their own.
 
