@@ -7,13 +7,13 @@
 	<key>ESProjectWindowState</key>
 	<dict>
 		<key>ContentSize</key>
-		<string>{1106, 705}</string>
+		<string>{1367, 745}</string>
 		<key>ProjectURL</key>
 		<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/rypan.github.com.esproj/</string>
 		<key>StateType</key>
 		<string>ProjectWindow</string>
 		<key>TopLeftPoint</key>
-		<string>{257, 786}</string>
+		<string>{36, 878}</string>
 	</dict>
 	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
 	<false/>
@@ -21,6 +21,7 @@
 	<dict>
 		<key>ExpandedURLs</key>
 		<array>
+			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_drafts</string>
 			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_layouts</string>
 			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts</string>
 			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/css</string>
