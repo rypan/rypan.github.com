@@ -100,7 +100,8 @@ blockquote p
 }
 
 h2{
-	font-family: 'HelveticaNeue-Medium', 'Helvetica Neue Medium', Helvetica, Arial, sans-serif;
+	font-family: 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: bold;
 	font-size: 14px;
 	margin: 0px;
 }
