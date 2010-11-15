@@ -29,9 +29,7 @@ For Nice Guy Johnny, Burns is spreading the word every way he can.  He's tweetin
 
 [Amazon]: http://amzn.to/dfo4Xm
 
-> [edward_burns][]: if u want me to stop the hard sell, Im sorry, were trying 2 keep the DIY indiefilm thing crankin & earning Screenplay? http://amzn.to/dfo4Xm
-
-[edward_burns]: (http:/www.twitter.com/edward_burns)
+> [edward_burns](http://www.twitter.com/edward_burns): if u want me to stop the hard sell, Im sorry, were trying 2 keep the DIY indiefilm thing crankin & earning Screenplay? http://amzn.to/dfo4Xm
 
 He's connecting with the people that matter most: those who watch his movies and talk about his movies.
 
