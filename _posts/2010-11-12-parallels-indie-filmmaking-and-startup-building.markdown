@@ -27,7 +27,7 @@ Windows of distribution have changed. Previously, small flicks needed to find a 
 ## Lesson 2: Engage with Customers
 For Nice Guy Johnny, Burns is spreading the word every way he can.  He's tweeting, attending film festivals, speaking at events, and even selling the screenplay on Amazon.  He's not afraid to admit it either, he tweeted this earlier: 
 
->@edward_burns: if u want me to stop the hard sell, Im sorry, were trying 2 keep the DIY indiefilm thing crankin & earning Screenplay? http://amzn.to/dfo4Xm
+> edward_burns: if u want me to stop the hard sell, Im sorry, were trying 2 keep the DIY indiefilm thing crankin & earning Screenplay? http://amzn.to/dfo4Xm
 
 He's connecting with the people that matter most: those who watch his movies and talk about his movies.
 
