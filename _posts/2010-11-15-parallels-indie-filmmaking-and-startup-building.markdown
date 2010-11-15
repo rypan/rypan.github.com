@@ -58,6 +58,6 @@ This one was simple.  Don't fall in love with a big budget crew.  It'll only slo
 ## To Close
 The people behind independent filmmaking and tech startup are strikingly similar. They both do it because they want to work with people that are motivated by the same thing they are: **independence, ideas, and people**.  
 
-If you want to catch a video of the event the guys at Scripped uploaded part of it to [Vimeo][].  Also check out Nice Guy Johnny on iTunes.  I did and I really enjoyed it.
+If you want to catch a video of the event the guys at Scripped uploaded part of it to [Vimeo][].  Also check out [Nice Guy Johnny on iTunes](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMovie?id=396753070&s=143441).  I did and I really enjoyed it.
  
 [Vimeo]: http://vimeo.com/16556140
