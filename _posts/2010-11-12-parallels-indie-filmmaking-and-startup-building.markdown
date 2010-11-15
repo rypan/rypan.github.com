@@ -25,9 +25,13 @@ Windows of distribution have changed. Previously, small flicks needed to find a 
 [New Video]: http://www.newvideo.com/about/about-new-video-digital/new-video-digital-services/ 
 
 ## Lesson 2: Engage with Customers
-For Nice Guy Johnny, Burns is spreading the word every way he can.  He's tweeting, attending film festivals, speaking at events, and even selling the screenplay on Amazon.  He's not afraid to admit it either, he tweeted this earlier: 
+For Nice Guy Johnny, Burns is spreading the word every way he can.  He's tweeting, attending film festivals, speaking at events, and even selling the screenplay on [Amazon][].  He's not afraid to admit it either, he tweeted this earlier: 
 
-> edward_burns: if u want me to stop the hard sell, Im sorry, were trying 2 keep the DIY indiefilm thing crankin & earning Screenplay? http://amzn.to/dfo4Xm
+[Amazon]: http://amzn.to/dfo4Xm
+
+> [edward_burns][]: if u want me to stop the hard sell, Im sorry, were trying 2 keep the DIY indiefilm thing crankin & earning Screenplay? http://amzn.to/dfo4Xm
+
+[edward_burns]: http://www.twitter.com/edward_burns
 
 He's connecting with the people that matter most: those who watch his movies and talk about his movies.
 
@@ -41,12 +45,12 @@ With only 12 days, 3 crew and $25K, there were going to be areas of the movie th
 The average movie is 120-pages of script, 3 acts, and a series of scenes.  The final product is the collective creation that plays for 2 hours.  As a Director, you need to decide what goes in, what needs to be pulled out, what needs to be tweaked to make the story flow.
 
 ## Lesson 6: Being Small Means You're Agile
-Large budget movies are massive armies.  Pulling of a scene requires the coordination of the actors, lighting, sound, grips, and the rest of the crew.  Making a drastic last minute change or moving that many people quickly is close to impossible.
+Large budget movies are massive armies.  Pulling off a scene requires the coordination of the actors, lighting, sound, grips, and the rest of the crew.  Making a drastic last minute change or moving that many people quickly is close to impossible.
 
 With Burns's 3 person crew, they were able to make changes to the story in the moment.  They were able to pull off shots that would not be possible if there were 20-30 crew standing in the background.  
 
 ## Lesson 7: Embrace your Talent
-Burns mentioned as he matured as a Director he started to listen more and embrace the talented people around him.  He asked his actors to take the initial script he conceived and to make it their own.  He wanted them to bring their voices and experiences to the role.
+Burns mentioned as he matured as a Director, he started to listen more and embrace the talented people around him.  He asked his actors to take the script he conceived and to make it their own.  He wanted them to bring their voices and experiences to the role.
 
 As a Director, he learned it was more about bringing the right people into the room, rather than "directing" them in their scenes.
 
@@ -54,8 +58,6 @@ As a Director, he learned it was more about bringing the right people into the r
 This one was simple.  Don't fall in love with a big budget crew.  It'll only slow you down.
 
 ## To Close
-The people behind independent filmmaking and tech startup are strikingly similar. They both do it because they want to work with people that are motivated by the same thing they are: independence, ideas, and people.
-
-If you want to catch a video of the event the guys at Scripped uploaded part of it to [Vimeo][].  Also check out Nice Guy Johnny on iTunes.  I did and I really enjoyed it.
+The people behind independent filmmaking and tech startup are strikingly similar. They both do it because they want to work with people that are motivated by the same thing they are: **independence, ideas, and people**.  If you want to catch a video of the event the guys at Scripped uploaded part of it to [Vimeo][].  Also check out Nice Guy Johnny on iTunes.  I did and I really enjoyed it.
  
 [Vimeo]: http://vimeo.com/16556140
