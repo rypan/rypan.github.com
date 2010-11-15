@@ -29,7 +29,9 @@ For Nice Guy Johnny, Burns is spreading the word every way he can.  He's tweetin
 
 [Amazon]: http://amzn.to/dfo4Xm
 
-> edward_burns: if u want me to stop the hard sell, Im sorry, were trying 2 keep the DIY indiefilm thing crankin & earning Screenplay? http://amzn.to/dfo4Xm
+> [edward_burns][]: if u want me to stop the hard sell, Im sorry, were trying 2 keep the DIY indiefilm thing crankin & earning Screenplay? http://amzn.to/dfo4Xm
+
+[edward_burns]: http:/www.twitter.com/edward_burns
 
 He's connecting with the people that matter most: those who watch his movies and talk about his movies.
 
@@ -56,6 +58,8 @@ As a Director, he learned it was more about bringing the right people into the r
 This one was simple.  Don't fall in love with a big budget crew.  It'll only slow you down.
 
 ## To Close
-The people behind independent filmmaking and tech startup are strikingly similar. They both do it because they want to work with people that are motivated by the same thing they are: **independence, ideas, and people**.  If you want to catch a video of the event the guys at Scripped uploaded part of it to [Vimeo][].  Also check out Nice Guy Johnny on iTunes.  I did and I really enjoyed it.
+The people behind independent filmmaking and tech startup are strikingly similar. They both do it because they want to work with people that are motivated by the same thing they are: **independence, ideas, and people**.  
+
+If you want to catch a video of the event the guys at Scripped uploaded part of it to [Vimeo][].  Also check out Nice Guy Johnny on iTunes.  I did and I really enjoyed it.
  
 [Vimeo]: http://vimeo.com/16556140
