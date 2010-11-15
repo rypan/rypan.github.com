@@ -13,7 +13,7 @@
 		<key>StateType</key>
 		<string>ProjectWindow</string>
 		<key>TopLeftPoint</key>
-		<string>{453, 727}</string>
+		<string>{257, 786}</string>
 	</dict>
 	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
 	<false/>
@@ -23,6 +23,7 @@
 		<array>
 			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_layouts</string>
 			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts</string>
+			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/css</string>
 		</array>
 	</dict>
 	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
@@ -142,6 +143,12 @@
 			<dict>
 				<key>DocumentURL</key>
 				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/cname</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts/2010-11-12-parallels.markdown</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
