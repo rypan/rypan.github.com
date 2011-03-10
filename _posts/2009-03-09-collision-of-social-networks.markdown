@@ -4,7 +4,7 @@ category: technology
 title: Collision of Social Networks
 ---
 
-![Which you is you?](http://panchadsaram.com/wp-content/uploads/2009/03/you2.gif)
+![Which you is you?](http://vintage.panchadsaram.com/wp-content/uploads/2009/03/you2.gif)
 
 People are naturally going to make their digital experiences mirror their real-life ones. That means there will be different kinds of people in different places. There is the you that your friends know. There is the you that your family knows. There is the you that your boss knows.
 
@@ -16,7 +16,7 @@ The separation is natural, it allows people to express themselves the fullest in
 
 Each application tapped into a different network. There are **personal networks** and there are **content networks**.  Both have subsets.  For example a personal network includes your family, friends, and co-workers.  Content networks can be anything from the people you follow on [Twitter](http://www.twitter.com/) to the feed you receive from [CNN](feed://rss.cnn.com/rss/cnn_topstories.rss).  Successful websites thrived when they focused on a subset and served its needs.
 
-![You](http://panchadsaram.com/wp-content/uploads/2009/03/social2.gif)
+![You](http://vintage.panchadsaram.com/wp-content/uploads/2009/03/social2.gif)
 
 When sites reached a saturation point, many choose to expand their reach. Facebook grew from colleges to high schools, then to the general public. Some add features to draw in new users: Digg added a profile and LinkedIn added status updates. Each of these additions added new users and provided more engagement options. Unfortunately, by adding new users, sites started to bridge the gap between networks. Soon parents were on the same networks as kids. Managers on the same networks as employees. People started to change.
 
