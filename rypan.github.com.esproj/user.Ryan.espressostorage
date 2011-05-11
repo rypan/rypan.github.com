@@ -7,13 +7,13 @@
 	<key>ESProjectWindowState</key>
 	<dict>
 		<key>ContentSize</key>
-		<string>{1367, 745}</string>
+		<string>{1280, 697}</string>
 		<key>ProjectURL</key>
-		<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/rypan.github.com.esproj/</string>
+		<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/rypan.github.com.esproj/</string>
 		<key>StateType</key>
 		<string>ProjectWindow</string>
 		<key>TopLeftPoint</key>
-		<string>{36, 878}</string>
+		<string>{478, 865}</string>
 	</dict>
 	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
 	<false/>
@@ -21,10 +21,11 @@
 	<dict>
 		<key>ExpandedURLs</key>
 		<array>
-			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_drafts</string>
-			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_layouts</string>
-			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/_posts</string>
-			<string>file://localhost/Users/Ryan/Documents/git/rypan.github.com/css</string>
+			<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/_drafts</string>
+			<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/_layouts</string>
+			<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/_posts</string>
+			<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/css</string>
+			<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/rypan.github.com.esproj</string>
 		</array>
 	</dict>
 	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
@@ -41,7 +42,13 @@
 			</dict>
 			<dict>
 				<key>DocumentURL</key>
-				<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/_posts/2011-4-27-reinventing-forms.markdown</string>
+				<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/_posts/2011-5-1-html5-vs-native.markdown</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/_posts/2011-4-27-reinventing-forms%202.markdown</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
