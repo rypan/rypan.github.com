@@ -34,4 +34,4 @@ If you are building for consumers, you will always want to go native. Pick one p
 
 If you are building for businesses, try your best to start with mobile web. It lets you reach more employees within a company, it does not require an install to use it, and it lets you bypass the App Store. If a native solution is needed, you can use a framework like [PhoneGap](http://phonegap.com) to give your web app a native shell.
 
-With that, I'll leave you with a good and related read: Coping with Over Four Hundred Devices: [How Netflix Uses HTML5 to Deliver Amazing User Interfaces](http://functionscopedev.wordpress.com/2011/04/11/netflix-feature/)
+With that, I'll leave you with a good and related read: [Coping with Over Four Hundred Devices: How Netflix Uses HTML5 to Deliver Amazing User Interfaces](http://functionscopedev.wordpress.com/2011/04/11/netflix-feature/)
