@@ -13,7 +13,7 @@
 		<key>StateType</key>
 		<string>ProjectWindow</string>
 		<key>TopLeftPoint</key>
-		<string>{-1, 778}</string>
+		<string>{0, 782}</string>
 	</dict>
 	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
 	<false/>
@@ -43,6 +43,12 @@
 			<dict>
 				<key>DocumentURL</key>
 				<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/_posts/2011-05-10-html5-vs-native.markdown</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/ryan/Code/rypan.github.com/rypan.github.com/_posts/2011-06-2-pipette-rock-health.markdown</string>
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
