@@ -124,3 +124,19 @@ h2{
 	color: #767676;
 	line-height: 1em;
 }
+
+.portfolio-header{
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
+	font-size: 20px;
+}
+
+.portfolio h3{
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+
+.portfolio h4{
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
+	font-size: 10px;
+}
+
