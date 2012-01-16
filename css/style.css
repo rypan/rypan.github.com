@@ -148,3 +148,9 @@ h2{
 	color: #666666;
 }
 
+.portfolio img{
+	border-style:solid;
+	border-width:1px;
+	border-color: #CCCCCC;
+}
+
