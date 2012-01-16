@@ -131,12 +131,15 @@ h2{
 }
 
 .portfolio h3{
-	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	color: #666666;
 }
 
 .portfolio h4{
-	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
-	font-size: 10px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
 }
 
