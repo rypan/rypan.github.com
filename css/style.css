@@ -131,6 +131,10 @@ h2{
 	color: #CCCCCC;
 }
 
+.portfolio{
+	margin-bottom: 15px;
+}
+
 .portfolio h3{
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 13px;
