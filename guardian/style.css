@@ -54,3 +54,13 @@ button {
 button:hover {
   background-color: #555;
 }
+
+.built{
+	color: #BBBBBB;
+	font-style: italic;
+}
+
+.built a{
+	color: #BBBBBB;
+	font-style: italic;
+}
